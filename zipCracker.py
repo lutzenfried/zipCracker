@@ -1,8 +1,10 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
 
-#Author : ### lutzenfried ###
-#Use only for educational purpose
+#==========================
+#= Written by lutzenfried =
+#==========================
+#Use for educational purpose only
 
 #Modify zip_file : Put zip file path /home/user/documents/file.zip
 #Modify password_file : Put password file path /home/user/documents/wordlist.txt
